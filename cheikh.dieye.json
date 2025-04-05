@@ -1,0 +1,72 @@
+"@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Cheikh Ahmadou Bamba Dieye",
+    "alternateName": "Cheikh Ahmadou Bamba Dieye", 
+    "description": "Cheikh Ahmadou Bamba est un etudiant à l'université de Nice Cote d'Azur",
+    "birthdate": "2002-07-17",
+    "birthplace": {
+        "@type": "Place",
+        "name": "Echirolles, France",
+        "address": {
+            "@type": "PostalAddress", 
+            "addressLocality": "Nice",
+            "addressCountry": "France"
+        }
+    },
+    "réseaux_sociaux": {
+        "instagram":"https://www.instagram.com/chb_dye17"
+      },
+    "nationality": "Francais",
+    "gender" : "male",
+    "heigh": "1.74m",
+    "jobtitle": "etudiant",
+    "sport": "Running",
+    "hobbies": "football,cinéma",
+    "contact": {
+      "email": "Bamba.dieye17@gmail.com"
+    },
+    "profession": ["etudiant"],
+    "préférences": {
+      "loisirs": [
+        "Cinéma",
+        "jeux vidéo"
+        "sorties"
+      ],
+      "langues": [
+        "Français",
+        "wolof"
+      ]
+    },
+  
+"historique_professionnel": [
+  {
+    "entreprise": "Les Filous",
+    "poste": "Employé polyvalent de restauration",
+    "date_debut": "2024",
+    "description": "Préparations sandwichs, entretien cuisine"
+  }
+
+],
+
+"certifications": [
+  {
+    "certificat": "Baccalauréat général et technologique",
+    "organisme": "Lycée",
+    "date_obtention": "2020"
+  }
+],
+
+"formation": [
+  {
+    "établissement": "Université de Nice",
+    "diplôme": "Licence information communication",
+    "date_obtention": "2025"
+  }
+
+]
+
+}
+
+
+
+
